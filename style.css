@@ -1,0 +1,13 @@
+thead
+td {
+	border: none;
+}
+tbody
+td {
+	border: 1.5px solid #000;
+	color: grey;
+	padding: 10px 0px 10px 0px;
+}
+.time{
+	color: black;
+}
